@@ -86,3 +86,16 @@ main #button:hover {
 
   cursor: pointer;
 }
+
+footer{
+  color: white;
+}
+#answer{
+  transition: all 1s;
+}
+#answer div {
+  font-size: 1.6rem;
+  font-weight: normal;
+  opacity: 0.9;
+  margin-bottom: 10px;
+}
